@@ -1,0 +1,37 @@
+<!doctype html>
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" type="icon" href="A.png">
+		<title>ARCADAO</title>
+        <style>
+			body
+			{
+				background-color:white;
+				background-image:url('ARCA img.png');
+				background-repeat:no-repeat;
+				background-attachment:fixed;
+				background-size:100% 100%;
+                
+			}
+	     </style>
+	</head>
+	<body>
+		<p style="background-color:black;padding:3px;color:whitesmoke;text-align:center;margin-left:600px;margin-right:600px;">LATEST: New ARCA DAO  Website Launched</p>
+		<img src="A.png"style='height:48px;width:48px;position:absolute;top:45px;left:50px;'> 
+		<ul>
+			<li style="font-family:serif;font-size:20px;list-style-type:none;color:white;margin-left:40px;cursor:pointer"><strong>ARCA</strong><span style="font-family:Arial, Helvetica, sans-serif;word-spacing:10px;">DAO</span></li>
+			<li style="font-size:15px;list-style-type:none;color:white;margin-left:300px;position:absolute;top:55px;cursor:pointer">What is ARCA?</li>
+			<li style="font-size:15px;list-style-type:none;color:white;margin-left:600px;position:absolute;top:55px;cursor:pointer">Articles</li>
+			<li style="font-size:15px;list-style-type:none;color:white;margin-left:800px;position:absolute;top:55px;cursor:pointer">Projects</li>
+			<li style="font-size:15px;list-style-type:none;color:white;margin-left:1000px;position:absolute;top:55px;cursor:pointer">Contact</li>
+			<button onclick="document.location='#'" style="background-color:burlywood;padding-top:5px;padding-bottom:5px;padding-right:7px;padding-left:7px; border-radius:7px; font-size:15px;list-style-type:none;color:white;margin-left:1200px;position:absolute;top:50px;border:2px solid whitesmoke;cursor:pointer">Online</button>
+			<button onclick="document.location='#join us'"style="border:2px solid white;padding-top:5px;padding-bottom:5px;padding-right:7px;padding-left:7px; border-radius:7px; font-size:15px;list-style-type:none;color:white;margin-left:1400px;position:absolute;top:50px;background-color:limegreen;cursor:pointer">Join us</button>
+		</ul>
+		<p style="font-size:40px;color:white;margin-left:200px;margin-top:100px;line-height:1.5;font-family:'Trebuchet MS', sans-serif;">An Arweave <br>Community <br>Fund A</p>
+		<p style="color:white;margin-left:200px;font-size:20px;line-height:1.4;">Arca is a Decentralised <br>Autonomous Organisation created<br> to promote decentralisation of the<br>Arweave Blockchain ecosystem.</p><br>
+		<button onclick="document.location='#join us'"style="background-color:lightgreen;margin-left:250px;padding-left:40px;padding-right:40px;border-radius:5px;padding-bottom:5px;padding-top:5px;border:2px solid whitesmoke;">Join us</button>
+	</body>
+	</html>
